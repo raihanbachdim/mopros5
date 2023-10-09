@@ -1,0 +1,46 @@
+{
+    "kopi" : [
+    {
+        "coffee_id": "1",
+        "coffee_title": "Caffè Latte",
+        "coffee_detail": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
+        "foto": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648177502.jpg"
+    },
+    {
+        "coffee_id": "2",
+        "coffee_title": "Cappuccino",
+        "coffee_detail": "Dark, rich espresso lies in wait under a smoothed and stretched layer of thick milk foam. An alchemy of barista artistry and craft.",
+        "foto": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648177502.jpg"
+    },
+    {
+        "coffee_id": "3",
+        "coffee_title": "Caramel Macchiato",
+        "coffee_detail": "Freshly steamed milk with vanilla-flavored syrup marked with espresso and topped with a caramel drizzle for an oh-so-sweet finish.",
+        "foto": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648177502.jpg"
+    },
+    {
+        "coffee_id": "4",
+        "coffee_title": "Caramel Macchiato",
+        "coffee_detail": "Freshly steamed milk with vanilla-flavored syrup marked with espresso and topped with a caramel drizzle for an oh-so-sweet finish.",
+        "foto": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648177502.jpg"
+    },
+    {
+        "coffee_id": "5",
+        "coffee_title": "Caramel Macchiato",
+        "coffee_detail": "Freshly steamed milk with vanilla-flavored syrup marked with espresso and topped with a caramel drizzle for an oh-so-sweet finish.",
+        "foto": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648177502.jpg"
+    },
+    {
+        "coffee_id": "6",
+        "coffee_title": "Caramel Macchiato",
+        "coffee_detail": "Freshly steamed milk with vanilla-flavored syrup marked with espresso and topped with a caramel drizzle for an oh-so-sweet finish.",
+        "foto": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648177502.jpg"
+    },
+    {
+        "coffee_id": "7",
+        "coffee_title": "Caramel Macchiato",
+        "coffee_detail": "Freshly steamed milk with vanilla-flavored syrup marked with espresso and topped with a caramel drizzle for an oh-so-sweet finish.",
+        "foto": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648177502.jpg"
+    }
+    ]
+}
